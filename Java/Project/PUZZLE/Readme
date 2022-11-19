@@ -1,0 +1,15 @@
+GUI:Use Package AWT or Swing.
+
+Module:
+1.Main Window:JFrame
+2.Menu:JMenuBar
+3.Container:JLabel(Manage words and images)
+4.iamge：ImageIcon
+5. Events:
+Event source: button, picture, window
+Events: Actions, such as mouse click, mouse drag, and keyboard input
+Bind listening: Executes code when an event occurs on the event source
+KeyListener: keyboard listener
+MouseListener: Mouse listening
+ActionListener: Action listener
+
